@@ -6,18 +6,14 @@
 <img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
 
-
 # Tabulation with readings
-
 <img width="825" height="1280" alt="image" src="https://github.com/user-attachments/assets/511fefd7-315b-425a-83b4-811519519cc0" />
-
 
 <img width="838" height="812" alt="image" src="https://github.com/user-attachments/assets/e0186370-80f9-445b-956d-bae9261eab64" />
 
 ## Semilog plotted Graph
 
 <img width="1280" height="870" alt="image" src="https://github.com/user-attachments/assets/961e88cd-9b26-4e73-97c9-08cbaed710a3" />
-
 
 <img width="1038" height="551" alt="image" src="https://github.com/user-attachments/assets/85c53e93-930f-44ab-8a37-89ae576663b1" />
 
