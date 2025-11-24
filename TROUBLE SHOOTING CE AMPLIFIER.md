@@ -15,6 +15,5 @@ Calculation
 ## Semilog Graph
 <img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/b6324b55-4571-4417-971b-6e4956646dba" />
 
-
 Result
 <img width="1125" height="759" alt="image" src="https://github.com/user-attachments/assets/5a5ae65d-c45c-4d82-889f-e9b647c0f267" />
