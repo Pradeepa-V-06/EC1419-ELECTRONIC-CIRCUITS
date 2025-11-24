@@ -23,5 +23,4 @@
 
 Practical frequency of Oscillation = 0.55KHz
 
-
 Theoritical Frequency of Oscillation = 1KHz
